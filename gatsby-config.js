@@ -34,3 +34,13 @@ module.exports = {
     // `gatsby-plugin-offline`,
   ],
 }
+
+{
+  resolve: 'gatsby-plugin-i18n',
+    options: {
+        langKeyDefault: 'en',
+        useLangKeyLayout: false,
+    }
+    }
+  ].
+}
