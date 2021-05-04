@@ -13,4 +13,21 @@ const SecondPage = () => (
   </Layout>
 )
 
+{
+  "en": {
+    "translation": {
+      "siteMetadata": {
+        "title": "Translation Example",
+      },
+    }
+  },  
+  "el": {
+    "translation": {
+      "siteMetadata": {
+        "title": "Παράδειγμα Μετάφρασης",
+      },
+    }
+  }
+}
+
 export default SecondPage
